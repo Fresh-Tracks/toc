@@ -31,10 +31,10 @@ There are many different ways to provide a scalable and available metric system 
 
 *Preferred maturity level:* sandbox
 
-> The CNCF sandbox was designed for just this kind of project. Specifically, the Cortex community is looking for the following from being in the Sandbox:
-> * Encourage public visibility of experiments or other early work that can add value to the CNCF mission
-> * Visibility for a new projects designed to extend one or more CNCF projects with functionality
-> * The Sandbox should provide a beneficial, neutral home for such projects, in order to foster collaborative development.
+The CNCF sandbox was designed for just this kind of project. Specifically, the Cortex community is looking for the following from being in the sandbox:
+* Encourage public visibility of experiments or other early work that can add value to the CNCF mission
+* Visibility for a new projects designed to extend one or more CNCF projects with functionality
+* The Sandbox should provide a beneficial, neutral home for such projects, in order to foster collaborative development.
 
 *License:* Apache License 2.0
 
