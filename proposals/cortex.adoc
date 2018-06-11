@@ -21,7 +21,7 @@ Cortex was presented at the https://docs.google.com/presentation/d/190oIFgujktVY
 
 Cortex fully supports the CNCF's goal for scalability, "Ability to support all scales of deployment, from small developer centric environments to the scale of enterprises and service providers."
 
-There are many different ways to provide a scalable and available metric system for Kubernetes. Cortex with it's tenancy model combined with the both the high-availability and horizontally scalability architecture serves this goal directly.
+There are many different ways to provide a scalable and available metric system for Kubernetes. Cortex, with its tenancy model combined with a highly-available and horizontally scalable architecture serves this goal directly.
 
 
 
@@ -33,9 +33,8 @@ There are many different ways to provide a scalable and available metric system 
 
 The CNCF sandbox was designed for just this kind of project. Specifically, the Cortex community is looking for the following from being in the sandbox:
 
-* Encourage public visibility of experiments or other early work that can add value to the CNCF mission
-* Visibility for a new projects designed to extend one or more CNCF projects with functionality
-* The Sandbox should provide a beneficial, neutral home for such projects, in order to foster collaborative development.
+* Visibility as an option for monitoring large distributed environments, especially in multi-tenant situations
+* A neutral home in order to foster collaborative development
 
 *License:* Apache License 2.0
 
