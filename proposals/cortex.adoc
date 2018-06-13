@@ -21,7 +21,7 @@ Cortex was presented at the https://docs.google.com/presentation/d/190oIFgujktVY
 
 Cortex fully supports the CNCF's goal for scalability, "Ability to support all scales of deployment, from small developer centric environments to the scale of enterprises and service providers."
 
-There are many different ways to provide a scalable and available metric system for Kubernetes. Cortex with it's tenancy model combined with the both the high-availability and horizontally scalability architecture serves this goal directly.
+There are many different ways to provide a scalable and available metric system for Kubernetes. Cortex, with its tenancy model combined with a highly-available and horizontally scalable architecture serves this goal directly.
 
 
 
